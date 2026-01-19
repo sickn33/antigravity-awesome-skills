@@ -25,6 +25,7 @@ This repository provides essential skills to transform your AI assistant into a 
 
 ## 📍 Table of Contents
 
+- [🚀 New Here? Start Here!](#-new-here-start-here)
 - [🔌 Compatibility](#-compatibility)
 - [Features & Categories](#features--categories)
 - [Full Skill Registry](#full-skill-registry-155155)
@@ -32,6 +33,32 @@ This repository provides essential skills to transform your AI assistant into a 
 - [How to Contribute](#how-to-contribute)
 - [Credits & Sources](#credits--sources)
 - [License](#license)
+
+---
+
+## New Here? Start Here!
+
+**First time using this repository?** We've created beginner-friendly guides to help you get started:
+
+- **[GETTING_STARTED.md](GETTING_STARTED.md)** - Complete beginner's guide (5-minute read)
+- **[CONTRIBUTING_GUIDE.md](CONTRIBUTING_GUIDE.md)** - How to contribute (step-by-step)
+- **[SKILL_ANATOMY.md](docs/SKILL_ANATOMY.md)** - Understanding how skills work
+- **[QUICK_START_VISUAL.md](docs/QUICK_START_VISUAL.md)** - Visual guide with diagrams
+
+**Quick Start:**
+```bash
+# 1. Install skills
+git clone https://github.com/sickn33/antigravity-awesome-skills.git .agent/skills
+
+# 2. Use a skill in your AI assistant
+@brainstorming help me design a todo app
+```
+
+That's it! Your AI assistant now has 179 specialized skills. 🎉
+
+**Additional Resources:**
+- 💡 **[Real-World Examples](docs/EXAMPLES.md)** - See skills in action
+- ❓ **[FAQ](FAQ.md)** - Common questions answered
 
 ---
 
