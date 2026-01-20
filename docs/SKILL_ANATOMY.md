@@ -1,4 +1,4 @@
-# 🔬 Anatomy of a Skill - Understanding the Structure
+# Anatomy of a Skill - Understanding the Structure
 
 **Want to understand how skills work under the hood?** This guide breaks down every part of a skill file.
 
@@ -26,7 +26,7 @@ skills/
 
 ---
 
-## 📄 SKILL.md Structure
+## SKILL.md Structure
 
 Every `SKILL.md` file has two main parts:
 
@@ -37,7 +37,7 @@ Let's break down each part:
 
 ---
 
-## 🏷️ Part 1: Frontmatter
+## Part 1: Frontmatter
 
 The frontmatter is at the very top, wrapped in `---`:
 
@@ -78,7 +78,7 @@ tags: ["react", "typescript", "testing"]
 
 ---
 
-## 📝 Part 2: Content
+## Part 2: Content
 
 After the frontmatter comes the actual skill content. Here's the recommended structure:
 
@@ -168,7 +168,7 @@ More instructions...
 
 ---
 
-## 🎯 Writing Effective Instructions
+## Writing Effective Instructions
 
 ### Use Clear, Direct Language
 
@@ -210,7 +210,7 @@ Set up the database properly.
 
 ---
 
-## 🧩 Optional Components
+## Optional Components
 
 ### Scripts Directory
 
@@ -276,7 +276,7 @@ references/
 
 ---
 
-## 📐 Skill Size Guidelines
+## Skill Size Guidelines
 
 ### Minimum Viable Skill
 - **Frontmatter:** name + description
@@ -298,7 +298,7 @@ references/
 
 ---
 
-## 🎨 Formatting Best Practices
+## Formatting Best Practices
 
 ### Use Markdown Effectively
 
@@ -404,7 +404,7 @@ Help turn ideas into fully formed designs...
 
 ---
 
-## 🚀 Advanced Patterns
+## Advanced Patterns
 
 ### Conditional Logic
 
@@ -442,7 +442,7 @@ If the user is working with Vue:
 
 ---
 
-## 📊 Skill Effectiveness Metrics
+## Skill Effectiveness Metrics
 
 How to know if your skill is good:
 
@@ -462,7 +462,7 @@ How to know if your skill is good:
 
 ---
 
-## 🎓 Learning from Existing Skills
+## Learning from Existing Skills
 
 ### Study These Examples
 
@@ -488,7 +488,7 @@ How to know if your skill is good:
 
 ---
 
-## 🆘 Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
 ### ❌ Mistake 1: Too Vague
 ```markdown
