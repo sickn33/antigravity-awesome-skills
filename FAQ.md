@@ -54,7 +54,7 @@ The skill files themselves are stored locally on your computer, but your AI assi
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### Where should I install the skills?
 
@@ -122,7 +122,7 @@ rm -rf temp-skills
 
 ---
 
-## 🎯 Using Skills
+## Using Skills
 
 ### How do I invoke a skill?
 
@@ -272,7 +272,7 @@ You can speed this up by:
 
 ---
 
-## 🔧 Technical Questions
+## Technical Questions
 
 ### What's the difference between SKILL.md and README.md?
 
@@ -345,7 +345,7 @@ This checks:
 
 ---
 
-## 🎓 Learning & Best Practices
+## Learning & Best Practices
 
 ### Which skills should I try first?
 
@@ -394,7 +394,7 @@ This checks:
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### My AI assistant doesn't recognize skills
 
@@ -448,7 +448,7 @@ We'll update it quickly!
 
 ---
 
-## 📊 Statistics & Info
+## Statistics & Info
 
 ### How many skills are there?
 
@@ -481,23 +481,23 @@ See [Credits & Sources](README.md#credits--sources) for attribution.
 
 ---
 
-## 🆘 Still Have Questions?
+## Still Have Questions?
 
 ### Where can I get help?
 
-- 💬 **[GitHub Discussions](https://github.com/sickn33/antigravity-awesome-skills/discussions)** - Ask questions
-- 🐛 **[GitHub Issues](https://github.com/sickn33/antigravity-awesome-skills/issues)** - Report bugs
-- 📖 **Documentation** - Read the guides in this repo
-- 🤝 **Community** - Connect with other users
+- **[GitHub Discussions](https://github.com/sickn33/antigravity-awesome-skills/discussions)** - Ask questions
+- **[GitHub Issues](https://github.com/sickn33/antigravity-awesome-skills/issues)** - Report bugs
+- **Documentation** - Read the guides in this repo
+- **Community** - Connect with other users
 
 ---
 
 ### How can I stay updated?
 
-- ⭐ **Star the repository** on GitHub
-- 👀 **Watch the repository** for updates
-- 📧 **Subscribe to releases** for notifications
-- 🐦 **Follow contributors** on social media
+- **Star the repository** on GitHub
+- **Watch the repository** for updates
+- **Subscribe to releases** for notifications
+- **Follow contributors** on social media
 
 ---
 
