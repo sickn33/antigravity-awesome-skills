@@ -1,10 +1,10 @@
-# 🎨 Visual Quick Start Guide
+# Visual Quick Start Guide
 
 **Learn by seeing!** This guide uses diagrams and visual examples to help you understand skills.
 
 ---
 
-## 🗺️ The Big Picture
+## The Big Picture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -51,8 +51,8 @@ antigravity-awesome-skills/
 │   └── ... (176 more skills)
 │
 ├── 📁 scripts/                     ← Validation & management
-│   ├── 🐍 validate_skills.py
-│   └── 🐍 generate_index.py
+│   ├── validate_skills.py
+│   └── generate_index.py
 │
 └── 📁 docs/                        ← Documentation (NEW)
     ├── 📄 SKILL_ANATOMY.md         ← How skills work
@@ -61,7 +61,7 @@ antigravity-awesome-skills/
 
 ---
 
-## 🔄 How Skills Work (Flow Diagram)
+## How Skills Work (Flow Diagram)
 
 ```
 ┌──────────────┐
@@ -127,7 +127,7 @@ antigravity-awesome-skills/
 
 ---
 
-## 📝 Skill File Anatomy (Visual)
+## Skill File Anatomy (Visual)
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -171,7 +171,7 @@ antigravity-awesome-skills/
 
 ---
 
-## 🚀 Installation (Visual Steps)
+## Installation (Visual Steps)
 
 ### Step 1: Clone the Repository
 ```
@@ -222,7 +222,7 @@ antigravity-awesome-skills/
 
 ---
 
-## 🎓 Example: Using a Skill (Step-by-Step)
+## Example: Using a Skill (Step-by-Step)
 
 ### Scenario: You want to add Stripe payments to your app
 
@@ -268,7 +268,7 @@ antigravity-awesome-skills/
 
 ---
 
-## 🔍 Finding Skills (Visual Guide)
+## Finding Skills (Visual Guide)
 
 ### Method 1: Browse by Category
 ```
@@ -287,7 +287,7 @@ Open skills_index.json → Search for keyword → Find skill path
 
 ---
 
-## 🛠️ Creating Your First Skill (Visual Workflow)
+## Creating Your First Skill (Visual Workflow)
 
 ```
 ┌──────────────┐
@@ -322,7 +322,7 @@ Open skills_index.json → Search for keyword → Find skill path
 
 ---
 
-## 📊 Skill Complexity Levels
+## Skill Complexity Levels
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -370,7 +370,7 @@ Your Contribution
 
 ---
 
-## 🗺️ Learning Path (Visual Roadmap)
+## Learning Path (Visual Roadmap)
 
 ```
 START HERE
@@ -459,7 +459,7 @@ START HERE
 
 ---
 
-## 🎉 Success Stories (Visual Timeline)
+## Success Stories (Visual Timeline)
 
 ```
 Day 1: Install skills
@@ -485,7 +485,7 @@ Month 1: Regular contributor
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 1. ✅ **Understand** the visual structure
 2. ✅ **Install** skills in your AI tool
