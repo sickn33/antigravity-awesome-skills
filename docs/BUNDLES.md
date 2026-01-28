@@ -27,7 +27,7 @@ _For building modern, high-performance web apps._
 
 - `frontend-design`: UI guidelines and aesthetics.
 - `react-patterns`: Best practices for React (if available).
-- `tailwind-mastery`: Styling superpowers.
+- `tailwind-patterns`: Styling superpowers.
 - `form-cro`: Optimize your forms for conversion.
 - `seo-audit`: Get found on Google.
 
